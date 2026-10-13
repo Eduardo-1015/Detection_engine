@@ -168,11 +168,3 @@ The results reported in the manuscript were obtained with Python 3.12.10 and pan
 ## Ethics
 
 The study is a retrospective secondary analysis of anonymised, routinely collected monitoring data. The ethics approval reference will be added once available.
-
-## Citation
-
-If you use this code, please cite the manuscript (reference to be added on publication).
-
-## Contact
-
-Eduardo Castro, eduardo.castro@digestaid.health
